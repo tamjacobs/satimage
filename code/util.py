@@ -4,7 +4,8 @@ import numpy as np
 import numpy.ma as ma
 import pylab as pl
 
-from keras.models import model_from_json
+import tensorflow.compat.v1 as tf
+from tf.keras.models import model_from_json
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 
 
