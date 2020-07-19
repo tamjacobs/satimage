@@ -7,8 +7,7 @@ import pylab as pl
 #import tensorflow.compat.v1 as tf
 #tf.disable_v2_behavior()
 #from tf.keras.models import model_from_json
-import tensorflow as tf
-from tf.keras.models import model_from_json
+from tensorflow.keras.model import model_from_json
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 
 
