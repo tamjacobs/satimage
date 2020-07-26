@@ -5,13 +5,13 @@ import pandas as pd
 import pylab as pl
 import matplotlib.cm as cm
 import math
+import matplotlib.pyplot as plt
 
-from scipy import misc
+import cv2
 
 import util
 
 BATCH_SIZE = 20
-
 
 def img_data_generator(file_paths, batch_size):
     """
@@ -19,24 +19,24 @@ def img_data_generator(file_paths, batch_size):
     :param file_paths: List of paths for the images
     :param batch_size: Batch size to be used for prediction
     """
+    
     while True:
         x_train = []
         for file_path in file_paths:
-            img = misc.imread(file_path)
+            img = cv2.imread(file_path) #confirmed has the file paths here 
             x_train.append(img)
             if len(x_train) == batch_size:
                 x_to_yield = np.array(x_train, dtype=np.float32)
-                if K.image_dim_ordering() == "th":
+                if K.image_dim_ordering() == "th": #ordering is tf so never enters here
                     x_to_yield = x_to_yield.transpose((0, 3, 1, 2))
                 yield x_to_yield
                 x_train = []
         if len(x_train) > 0:
             x_to_yield = np.array(x_train, dtype=np.float32)
-            if K.image_dim_ordering() == "th":
+            if K.image_dim_ordering() == "th": #ordering is tf so never enters here
                 x_to_yield = x_to_yield.transpose((0, 3, 1, 2))
             yield x_to_yield
                 
-
 def generate_predictions(model, img_dir, out_filepath, batch_size=BATCH_SIZE):
     """
     Generate predictions for the model and save them to the specified path.
@@ -50,12 +50,13 @@ def generate_predictions(model, img_dir, out_filepath, batch_size=BATCH_SIZE):
     if len(file_paths) % batch_size > 0:
         steps += 1
     data_generator_obj = img_data_generator(file_paths, batch_size)
-    
+    #testing: steps*batch_size = 620
+
     print("Generating predictions...")
-    predictions = model.predict_generator(data_generator_obj,
-                                          val_samples=steps * batch_size,
-                                          pickle_safe=True)
-    
+    #predictions = model.predict_generator(data_generator_obj, val_samples=steps*batch_size)
+    predictions = model.predict_generator(data_generator_obj, val_samples=steps * batch_size, pickle_safe=True)
+    #predictions = model.predict(data_generator_obj)
+
     pd_dict = dict()
     order = ['village_code']
     pd_dict['village_code'] = [os.path.split(f)[1].split('.')[0] for f in file_paths]
@@ -83,7 +84,7 @@ def show_filter_responses(model, layer_index, input_img_path, save_dir=None, fil
     :param filter_index: index of the filter in the given layer. All filter responses are displayed if this is None
     :param dpi: DPI of the display
     """
-    input_img = np.array(misc.imread(input_img_path), dtype=np.float32)
+    input_img = np.array(imageio.imread(input_img_path), dtype=np.float32)
     if K.image_dim_ordering() == "th":
         input_img = input_img.transpose((2, 0, 1))
     
@@ -127,8 +128,8 @@ def show_filter_responses(model, layer_index, input_img_path, save_dir=None, fil
         if filter_index is not None:
             prefix += "_filter_" + str(filter_index)
         if save_original:
-            misc.imsave(os.path.join(save_dir, prefix + "_input.png"), display_image)
-        misc.imsave(os.path.join(save_dir, prefix + "_output.png"), util.deprocess_image(out_img, alter_dim=False))
+            imageio.imsave(os.path.join(save_dir, prefix + "_input.png"), display_image)
+        imageio.imsave(os.path.join(save_dir, prefix + "_output.png"), util.deprocess_image(out_img, alter_dim=False))
 
     pl.figure(
         figsize=(out_img.shape[0] / dpi, out_img.shape[1] / dpi),
