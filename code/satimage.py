@@ -7,7 +7,7 @@ import matplotlib.cm as cm
 import math
 import matplotlib.pyplot as plt
 
-import cv2
+from cv2 import cv2
 
 import util
 
@@ -53,6 +53,7 @@ def generate_predictions(model, img_dir, out_filepath, batch_size=BATCH_SIZE):
     #testing: steps*batch_size = 620
 
     print("Generating predictions...")
+    print('Val samples = %d', steps*batch_size)
     #predictions = model.predict_generator(data_generator_obj, val_samples=steps*batch_size)
     predictions = model.predict_generator(data_generator_obj, val_samples=steps * batch_size, pickle_safe=True)
     #predictions = model.predict(data_generator_obj)
