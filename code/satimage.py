@@ -19,7 +19,8 @@ def img_data_generator(file_paths, batch_size):
     :param file_paths: List of paths for the images
     :param batch_size: Batch size to be used for prediction
     """
-    
+    i = 0
+
     while True:
         x_train = []
         for file_path in file_paths:
@@ -29,9 +30,12 @@ def img_data_generator(file_paths, batch_size):
                 x_to_yield = np.array(x_train, dtype=np.float32)
                 if K.image_dim_ordering() == "th": #ordering is tf so never enters here
                     x_to_yield = x_to_yield.transpose((0, 3, 1, 2))
+                print(i)
+                i = i+1
                 yield x_to_yield
                 x_train = []
         if len(x_train) > 0:
+            print('len of x_train = ', len(x_train))
             x_to_yield = np.array(x_train, dtype=np.float32)
             if K.image_dim_ordering() == "th": #ordering is tf so never enters here
                 x_to_yield = x_to_yield.transpose((0, 3, 1, 2))
@@ -53,9 +57,9 @@ def generate_predictions(model, img_dir, out_filepath, batch_size=BATCH_SIZE):
     #testing: steps*batch_size = 620
 
     print("Generating predictions...")
-    print('Val samples = %d', steps*batch_size)
+    print('Val samples = ', steps*batch_size)
     #predictions = model.predict_generator(data_generator_obj, val_samples=steps*batch_size)
-    predictions = model.predict_generator(data_generator_obj, val_samples=steps * batch_size, pickle_safe=True)
+    predictions = model.predict_generator(data_generator_obj, val_samples=steps * batch_size, pickle_safe=False)
     #predictions = model.predict(data_generator_obj)
 
     pd_dict = dict()
