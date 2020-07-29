@@ -91,3 +91,6 @@ ENV/
 # PyCharm editor settings
 .idea/
 models
+
+# images
+*.png
