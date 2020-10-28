@@ -19,7 +19,6 @@ def img_data_generator(file_paths, batch_size):
     :param file_paths: List of paths for the images
     :param batch_size: Batch size to be used for prediction
     """
-    i = 0
 
     while True:
         x_train = []
@@ -30,8 +29,6 @@ def img_data_generator(file_paths, batch_size):
                 x_to_yield = np.array(x_train, dtype=np.float32)
                 if K.image_dim_ordering() == "th": #ordering is tf so never enters here
                     x_to_yield = x_to_yield.transpose((0, 3, 1, 2))
-                print(i)
-                i = i+1
                 yield x_to_yield
                 x_train = []
         if len(x_train) > 0:
