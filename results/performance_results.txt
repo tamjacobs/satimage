@@ -1,0 +1,1262 @@
+pashchim
+Correlation for each class:
+[0] (0.5172157349393118, 0.027939299874274463)
+[1] (0.4791308523958916, 0.044240730422453016)
+[2] (0.540204770401252, 0.020649590081144656)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8888888888888888 Baseline: 0.8888888888888888 Precision: 0.9375 Recall: 0.9375
+Threshold: 0.7 Accuracy: 0.7222222222222222 Baseline: 0.7777777777777778 Precision: 0.8461538461538461 Recall: 0.7857142857142857
+Threshold: 0.7999999999999999 Accuracy: 0.7222222222222222 Baseline: 0.7777777777777778 Precision: 0.42857142857142855 Recall: 0.75
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.05567038711230299, 0.8263365462378092)
+[1] (-0.17850116878330663, 0.47852859783164403)
+[2] (0.32588454924223176, 0.1869266795336763)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8888888888888888 Baseline: 0.8888888888888888 Precision: 0.8888888888888888 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.7777777777777778 Baseline: 0.7777777777777778 Precision: 0.7777777777777778 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 0.7222222222222222 Baseline: 0.7777777777777778 Precision: 0.3333333333333333 Recall: 0.25
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+purba
+Correlation for each class:
+[0] (0.19139903174038156, 0.3388905651476145)
+[1] (0.13690979936733977, 0.4958974557835063)
+[2] (0.270194519648769, 0.172867154799802)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8888888888888888 Baseline: 0.9259259259259259 Precision: 0.9583333333333334 Recall: 0.92
+Threshold: 0.7 Accuracy: 0.6296296296296297 Baseline: 0.6666666666666666 Precision: 0.7 Recall: 0.7777777777777778
+Threshold: 0.7999999999999999 Accuracy: 0.7037037037037037 Baseline: 0.7407407407407407 Precision: 0.42857142857142855 Recall: 0.42857142857142855
+Threshold: 0.8999999999999999 Accuracy: 0.9629629629629629 Baseline: 0.962962962962963 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.24079657171827273, 0.22631287901553065)
+[1] (-0.2766727363308278, 0.16239754754098198)
+[2] (-0.08228377423568581, 0.6832585314452467)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.9259259259259259 Baseline: 0.9259259259259259 Precision: 0.9259259259259259 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.5925925925925926 Baseline: 0.6666666666666666 Precision: 0.6521739130434783 Recall: 0.8333333333333334
+Threshold: 0.7999999999999999 Accuracy: 0.7407407407407407 Baseline: 0.7407407407407407 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 0.9629629629629629 Baseline: 0.962962962962963 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+sheohar
+Correlation for each class:
+[0] (-0.42428248272208074, 0.47646310356477767)
+[1] (-0.2237409803498648, 0.7175191261809228)
+[2] (-0.2478220655585917, 0.6877233966911854)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.6 Baseline: 1.0 Precision: 1.0 Recall: 0.6
+Threshold: 0.7 Accuracy: 0.4 Baseline: 1.0 Precision: 1.0 Recall: 0.4
+Threshold: 0.7999999999999999 Accuracy: 0.8 Baseline: 0.8 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.5029762743211146, 0.38772367137204927)
+[1] (0.7339209264239699, 0.1580185465251959)
+[2] (-0.2697541425455649, 0.660750512563603)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.7 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 1.0 Baseline: 0.8 Precision: 1.0 Recall: 1.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+sitamarhi
+Correlation for each class:
+[0] (0.5310668353348089, 0.028267276760992558)
+[1] (0.5134330753735614, 0.03503395445268635)
+[2] (0.3183861899624481, 0.21295741894984588)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 0.8823529411764706 Baseline: 1.0 Precision: 1.0 Recall: 0.8823529411764706
+Threshold: 0.5 Accuracy: 0.7647058823529411 Baseline: 1.0 Precision: 1.0 Recall: 0.7647058823529411
+Threshold: 0.6 Accuracy: 0.5882352941176471 Baseline: 0.8235294117647058 Precision: 1.0 Recall: 0.5
+Threshold: 0.7 Accuracy: 0.6470588235294118 Baseline: 0.5882352941176471 Precision: 0.6 Recall: 0.42857142857142855
+Threshold: 0.7999999999999999 Accuracy: 0.9411764705882353 Baseline: 0.9411764705882353 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.23028434747609305, 0.3738947556947871)
+[1] (0.2259029317171023, 0.3833036810164667)
+[2] (0.1289673616022954, 0.6217923153593439)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8235294117647058 Baseline: 0.8235294117647058 Precision: 0.8235294117647058 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.4117647058823529 Baseline: 0.5882352941176471 Precision: 0.4117647058823529 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 0.23529411764705882 Baseline: 0.9411764705882353 Precision: 0.07142857142857142 Recall: 1.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+madhubani
+Correlation for each class:
+[0] (-0.26852751281095544, 0.2392076874963201)
+[1] (-0.33519286035425416, 0.13745047966049997)
+[2] (0.2099904508886059, 0.36091763708527824)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.8571428571428571 Baseline: 1.0 Precision: 1.0 Recall: 0.8571428571428571
+Threshold: 0.6 Accuracy: 0.5238095238095238 Baseline: 0.9047619047619048 Precision: 0.8461538461538461 Recall: 0.5789473684210527
+Threshold: 0.7 Accuracy: 0.47619047619047616 Baseline: 0.6190476190476191 Precision: 0.625 Recall: 0.38461538461538464
+C:\Users\z5061927\Anaconda3\envs\py36\lib\site-packages\sklearn\metrics\_classification.py:1221: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\z5061927\Anaconda3\envs\py36\lib\site-packages\sklearn\metrics\_classification.py:1221: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 due to no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+Threshold: 0.7999999999999999 Accuracy: 0.8095238095238095 Baseline: 0.9523809523809523 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.5013797274261538, 0.02058410295992768)
+[1] (0.46763179987603487, 0.03254724925548577)
+[2] (0.23382768769289164, 0.3076567342251655)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.9047619047619048 Baseline: 0.9047619047619048 Precision: 0.9047619047619048 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.6666666666666666 Baseline: 0.6190476190476191 Precision: 0.7142857142857143 Recall: 0.7692307692307693
+Threshold: 0.7999999999999999 Accuracy: 0.8571428571428571 Baseline: 0.9523809523809523 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+supaul
+Correlation for each class:
+[0] (0.3102605868808641, 0.3531148562368846)
+[1] (0.39190034199367496, 0.23325050310589504)
+[2] (-0.257418510995282, 0.4447600336919952)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 0.9090909090909091 Baseline: 1.0 Precision: 1.0 Recall: 0.9090909090909091
+Threshold: 0.5 Accuracy: 0.9090909090909091 Baseline: 1.0 Precision: 1.0 Recall: 0.9090909090909091
+Threshold: 0.6 Accuracy: 0.9090909090909091 Baseline: 1.0 Precision: 1.0 Recall: 0.9090909090909091
+Threshold: 0.7 Accuracy: 0.5454545454545454 Baseline: 1.0 Precision: 1.0 Recall: 0.5454545454545454
+Threshold: 0.7999999999999999 Accuracy: 0.6363636363636364 Baseline: 0.7272727272727273 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.16663005695298885, 0.6243581388556338)
+[1] (-0.22769042908090872, 0.5007282061809708)
+[2] (0.016371130421810445, 0.9618964950365756)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.8181818181818182 Baseline: 1.0 Precision: 1.0 Recall: 0.8181818181818182
+Threshold: 0.7999999999999999 Accuracy: 0.36363636363636365 Baseline: 0.7272727272727273 Precision: 0.16666666666666666 Recall: 0.3333333333333333
+Threshold: 0.8999999999999999 Accuracy: 0.6363636363636364 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+araria
+Correlation for each class:
+[0] (-0.4347349101674458, 0.2422580150570473)
+[1] (-0.45852454590768077, 0.2144714557817146)
+[2] (-0.22975986811293064, 0.5520417037441491)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.7777777777777778 Baseline: 1.0 Precision: 1.0 Recall: 0.7777777777777778
+Threshold: 0.7999999999999999 Accuracy: 0.3333333333333333 Baseline: 0.6666666666666666 Precision: 0.5 Recall: 0.16666666666666666
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.27331605843824774, 0.47671162879532825)
+[1] (-0.2676298952044103, 0.4862915967077587)
+[2] (-0.14916309361717345, 0.7017053887352006)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.7 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 0.6666666666666666 Baseline: 0.6666666666666666 Precision: 0.6666666666666666 Recall: 1.0
+Threshold: 0.8999999999999999 Accuracy: 0.2222222222222222 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+kishanganj
+Correlation for each class:
+[0] (0.18956655376211617, 0.6839328647838993)
+[1] (0.08289441167154024, 0.859757075200289)
+[2] (0.797719753576746, 0.03159195135111759)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.7142857142857143 Baseline: 1.0 Precision: 1.0 Recall: 0.7142857142857143
+Threshold: 0.6 Accuracy: 0.2857142857142857 Baseline: 1.0 Precision: 1.0 Recall: 0.2857142857142857
+Threshold: 0.7 Accuracy: 0.14285714285714285 Baseline: 1.0 Precision: 1.0 Recall: 0.14285714285714285
+Threshold: 0.7999999999999999 Accuracy: 0.14285714285714285 Baseline: 0.8571428571428571 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.06298916672395433, 0.8932782800836171)
+[1] (nan, nan)
+[2] (-0.35139511049330624, 0.4395909237994459)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 0.8571428571428571 Baseline: 1.0 Precision: 1.0 Recall: 0.8571428571428571
+Threshold: 0.2 Accuracy: 0.8571428571428571 Baseline: 1.0 Precision: 1.0 Recall: 0.8571428571428571
+Threshold: 0.30000000000000004 Accuracy: 0.8571428571428571 Baseline: 1.0 Precision: 1.0 Recall: 0.8571428571428571
+Threshold: 0.4 Accuracy: 0.8571428571428571 Baseline: 1.0 Precision: 1.0 Recall: 0.8571428571428571
+Threshold: 0.5 Accuracy: 0.8571428571428571 Baseline: 1.0 Precision: 1.0 Recall: 0.8571428571428571
+Threshold: 0.6 Accuracy: 0.8571428571428571 Baseline: 1.0 Precision: 1.0 Recall: 0.8571428571428571
+Threshold: 0.7 Accuracy: 0.8571428571428571 Baseline: 1.0 Precision: 1.0 Recall: 0.8571428571428571
+Threshold: 0.7999999999999999 Accuracy: 0.7142857142857143 Baseline: 0.8571428571428571 Precision: 0.8333333333333334 Recall: 0.8333333333333334
+Threshold: 0.8999999999999999 Accuracy: 0.14285714285714285 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 0.2857142857142857 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+purnia
+Correlation for each class:
+[0] (0.15215135091762078, 0.6035789687999163)
+[1] (0.14143943278461338, 0.6295828809373462)
+[2] (0.2819469377738731, 0.3287672138239778)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.6428571428571429 Baseline: 1.0 Precision: 1.0 Recall: 0.6428571428571429
+Threshold: 0.6 Accuracy: 0.5 Baseline: 1.0 Precision: 1.0 Recall: 0.5
+Threshold: 0.7 Accuracy: 0.21428571428571427 Baseline: 0.9285714285714286 Precision: 1.0 Recall: 0.15384615384615385
+Threshold: 0.7999999999999999 Accuracy: 0.5714285714285714 Baseline: 0.5714285714285714 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.06824731672506273, 0.8166785554553977)
+[1] (-0.13708882749724102, 0.6402614150877804)
+[2] (0.13789338288048386, 0.6382816800359612)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.7142857142857143 Baseline: 0.9285714285714286 Precision: 0.9090909090909091 Recall: 0.7692307692307693
+Threshold: 0.7999999999999999 Accuracy: 0.5 Baseline: 0.5714285714285714 Precision: 0.4 Recall: 0.3333333333333333
+Threshold: 0.8999999999999999 Accuracy: 0.7142857142857143 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+katihar
+Correlation for each class:
+C:\Users\z5061927\Anaconda3\envs\py36\lib\site-packages\scipy\stats\stats.py:3845: PearsonRConstantInputWarning: An input array is constant; the correlation coefficent is not defined.
+  warnings.warn(PearsonRConstantInputWarning())
+
+[0] (-0.17771929324224692, 0.5102258964664216)
+[1] (-0.2598267232626228, 0.3311348452477423)
+[2] (0.09071775316220673, 0.7382847960073314)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.9375 Baseline: 1.0 Precision: 1.0 Recall: 0.9375
+Threshold: 0.6 Accuracy: 0.8125 Baseline: 1.0 Precision: 1.0 Recall: 0.8125
+Threshold: 0.7 Accuracy: 0.5625 Baseline: 1.0 Precision: 1.0 Recall: 0.5625
+Threshold: 0.7999999999999999 Accuracy: 0.75 Baseline: 0.6875 Precision: 1.0 Recall: 0.2
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.28761817343732665, 0.2800612236749355)
+[1] (0.2657142106790038, 0.31989536770918087)
+[2] (0.2833928145001152, 0.2875009248635173)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.75 Baseline: 1.0 Precision: 1.0 Recall: 0.75
+Threshold: 0.7 Accuracy: 0.25 Baseline: 1.0 Precision: 1.0 Recall: 0.25
+Threshold: 0.7999999999999999 Accuracy: 0.5625 Baseline: 0.6875 Precision: 0.25 Recall: 0.2
+Threshold: 0.8999999999999999 Accuracy: 0.8125 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+madhepura
+Correlation for each class:
+[0] (-0.44747876779684215, 0.12521575237080032)
+[1] (-0.4343913557155927, 0.13801360722443184)
+[2] (-0.5384419008457045, 0.05764531582419024)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.6923076923076923 Baseline: 1.0 Precision: 1.0 Recall: 0.6923076923076923
+Threshold: 0.6 Accuracy: 0.46153846153846156 Baseline: 1.0 Precision: 1.0 Recall: 0.46153846153846156
+Threshold: 0.7 Accuracy: 0.38461538461538464 Baseline: 1.0 Precision: 1.0 Recall: 0.38461538461538464
+Threshold: 0.7999999999999999 Accuracy: 0.6153846153846154 Baseline: 0.6153846153846154 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.2585249836461449, 0.39374713684571955)
+[1] (0.24614055223576886, 0.41757406441688777)
+[2] (0.062368025819540214, 0.8395977182957834)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.5384615384615384 Baseline: 1.0 Precision: 1.0 Recall: 0.5384615384615384
+Threshold: 0.7999999999999999 Accuracy: 0.46153846153846156 Baseline: 0.6153846153846154 Precision: 0.25 Recall: 0.2
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+saharsa
+Correlation for each class:
+[0] (-0.2525739558657178, 0.48141218751289777)
+[1] (-0.061018881089883265, 0.8670170704895498)
+[2] (-0.4193065053942163, 0.2277331111958985)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 0.9 Baseline: 1.0 Precision: 1.0 Recall: 0.9
+Threshold: 0.5 Accuracy: 0.7 Baseline: 1.0 Precision: 1.0 Recall: 0.7
+Threshold: 0.6 Accuracy: 0.6 Baseline: 1.0 Precision: 1.0 Recall: 0.6
+Threshold: 0.7 Accuracy: 0.6 Baseline: 1.0 Precision: 1.0 Recall: 0.6
+Threshold: 0.7999999999999999 Accuracy: 0.6 Baseline: 0.6 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.3560949897088881, 0.3125287884466519)
+[1] (0.1990719426054788, 0.5813811656323054)
+[2] (0.4762237317743305, 0.1641035426014199)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.4 Baseline: 1.0 Precision: 1.0 Recall: 0.4
+Threshold: 0.7999999999999999 Accuracy: 0.6 Baseline: 0.6 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+darbhanga
+Correlation for each class:
+[0] (0.1486575354940639, 0.5560568908229959)
+[1] (0.07026246786084936, 0.7817496594332946)
+[2] (0.2258539240175355, 0.367509275017731)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8888888888888888 Baseline: 1.0 Precision: 1.0 Recall: 0.8888888888888888
+Threshold: 0.7 Accuracy: 0.7222222222222222 Baseline: 0.8888888888888888 Precision: 0.8666666666666667 Recall: 0.8125
+Threshold: 0.7999999999999999 Accuracy: 0.5555555555555556 Baseline: 0.7777777777777778 Precision: 0.16666666666666666 Recall: 0.25
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.40467098613668084, 0.09576123314958583)
+[1] (0.3492452470933116, 0.15544944853255066)
+[2] (0.4669817806076497, 0.05072356636933062)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.5 Baseline: 0.8888888888888888 Precision: 1.0 Recall: 0.4375
+Threshold: 0.7999999999999999 Accuracy: 0.7777777777777778 Baseline: 0.7777777777777778 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+muzaffarpur
+Correlation for each class:
+[0] (0.261385030229623, 0.32813816665395823)
+[1] (0.23225313057376334, 0.3867211840252178)
+[2] (0.6379285656662999, 0.007840194379141102)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.9375 Baseline: 1.0 Precision: 1.0 Recall: 0.9375
+Threshold: 0.6 Accuracy: 0.75 Baseline: 0.9375 Precision: 1.0 Recall: 0.7333333333333333
+Threshold: 0.7 Accuracy: 0.6875 Baseline: 0.75 Precision: 0.8181818181818182 Recall: 0.75
+Threshold: 0.7999999999999999 Accuracy: 0.6875 Baseline: 0.9375 Precision: 0.16666666666666666 Recall: 1.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.14913211368912796, 0.5814707388076291)
+[1] (-0.2677053177671932, 0.31614505139427357)
+[2] (0.19056539779327322, 0.4795983235867455)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.875 Baseline: 0.9375 Precision: 0.9333333333333333 Recall: 0.9333333333333333
+Threshold: 0.7 Accuracy: 0.25 Baseline: 0.75 Precision: 0.5 Recall: 0.08333333333333333
+Threshold: 0.7999999999999999 Accuracy: 0.9375 Baseline: 0.9375 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+gopalganj
+Correlation for each class:
+[0] (0.1492191228128316, 0.6106554245835416)
+[1] (0.28473072650290515, 0.32380808803468747)
+[2] (-0.10500385618685794, 0.7209061644021912)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 0.9285714285714286 Baseline: 1.0 Precision: 1.0 Recall: 0.9285714285714286
+Threshold: 0.5 Accuracy: 0.8571428571428571 Baseline: 1.0 Precision: 1.0 Recall: 0.8571428571428571
+Threshold: 0.6 Accuracy: 0.5714285714285714 Baseline: 0.5714285714285714 Precision: 0.5833333333333334 Recall: 0.875
+Threshold: 0.7 Accuracy: 0.2857142857142857 Baseline: 0.7142857142857143 Precision: 0.2 Recall: 0.5
+Threshold: 0.7999999999999999 Accuracy: 0.8571428571428571 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.4019904305163695, 0.15420685981486346)
+[1] (-0.27212012084624504, 0.34661161902510046)
+[2] (-0.5635371072189785, 0.035847476951600434)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.5714285714285714 Baseline: 0.5714285714285714 Precision: 0.5714285714285714 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.21428571428571427 Baseline: 0.7142857142857143 Precision: 0.1111111111111111 Recall: 0.25
+Threshold: 0.7999999999999999 Accuracy: 0.9285714285714286 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+siwan
+Correlation for each class:
+[0] (0.42777495878099114, 0.06769811987841716)
+[1] (0.15204226039879376, 0.5343536889719676)
+[2] (0.35018570015160305, 0.1416135282355221)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.8947368421052632 Baseline: 0.8947368421052632 Precision: 0.8947368421052632 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.42105263157894735 Baseline: 0.631578947368421 Precision: 0.3888888888888889 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.15789473684210525 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.7999999999999999 Accuracy: 0.7368421052631579 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.3652375265217856, 0.12413653557404501)
+[1] (-0.359952743292801, 0.130088820232316)
+[2] (-0.1497809314758909, 0.5405211415810831)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.8947368421052632 Baseline: 0.8947368421052632 Precision: 0.8947368421052632 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.3684210526315789 Baseline: 0.631578947368421 Precision: 0.3684210526315789 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.05263157894736842 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.7999999999999999 Accuracy: 0.7894736842105263 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+saran
+Correlation for each class:
+[0] (-0.23908145982995999, 0.3100202122848063)
+[1] (-0.17061346563001875, 0.4720321597869757)
+[2] (-0.38437296153004297, 0.09427201711464929)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 0.95 Baseline: 1.0 Precision: 1.0 Recall: 0.95
+Threshold: 0.5 Accuracy: 0.9 Baseline: 1.0 Precision: 1.0 Recall: 0.9
+Threshold: 0.6 Accuracy: 0.5 Baseline: 0.55 Precision: 0.5333333333333333 Recall: 0.7272727272727273
+Threshold: 0.7 Accuracy: 0.4 Baseline: 0.95 Precision: 0.07692307692307693 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.22004841146227816, 0.35122346264453946)
+[1] (-0.17452072766080073, 0.46179023934376123)
+[2] (-0.31329820076493503, 0.1786083005114935)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.55 Baseline: 0.55 Precision: 0.55 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.55 Baseline: 0.95 Precision: 0.1 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+vaishali
+Correlation for each class:
+[0] (0.09863024538893962, 0.716301390452228)
+[1] (0.09291075596576563, 0.7321720796254303)
+[2] (0.29802944235641454, 0.2622308980400071)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8125 Baseline: 1.0 Precision: 1.0 Recall: 0.8125
+Threshold: 0.7 Accuracy: 0.5625 Baseline: 0.625 Precision: 0.6363636363636364 Recall: 0.7
+Threshold: 0.7999999999999999 Accuracy: 0.8125 Baseline: 0.8125 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.49148408869248905, 0.053178515972923786)
+[1] (-0.5136479795885871, 0.04183742756597309)
+[2] (-0.1580888724811706, 0.558710881538537)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.3125 Baseline: 0.625 Precision: 0.42857142857142855 Recall: 0.3
+Threshold: 0.7999999999999999 Accuracy: 0.8125 Baseline: 0.8125 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+samastipur
+Correlation for each class:
+[0] (-0.4720787914197777, 0.03558752552417586)
+[1] (-0.4104924024833187, 0.07221309721562778)
+[2] (0.009367090204660936, 0.9687355616719386)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.95 Baseline: 0.95 Precision: 0.95 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8 Baseline: 0.8 Precision: 0.8 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.35 Baseline: 0.6 Precision: 0.3684210526315789 Recall: 0.875
+Threshold: 0.7999999999999999 Accuracy: 0.75 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.049888690977890754, 0.8345477298253324)
+[1] (-0.07614653168141108, 0.7496702567649672)
+[2] (0.44428690569743073, 0.04969834608965394)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.95 Baseline: 0.95 Precision: 0.95 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8 Baseline: 0.8 Precision: 0.8 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.4 Baseline: 0.6 Precision: 0.375 Recall: 0.75
+Threshold: 0.7999999999999999 Accuracy: 0.8 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+begusarai
+Correlation for each class:
+[0] (-0.3273651619014625, 0.18481466545884817)
+[1] (-0.3502144533004658, 0.15422759354367105)
+[2] (-0.14865106845239817, 0.5560742684824759)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8333333333333334 Baseline: 0.9444444444444444 Precision: 0.9375 Recall: 0.8823529411764706
+Threshold: 0.7 Accuracy: 0.6111111111111112 Baseline: 0.7222222222222222 Precision: 0.7142857142857143 Recall: 0.7692307692307693
+Threshold: 0.7999999999999999 Accuracy: 0.6111111111111112 Baseline: 0.9444444444444444 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.3051627396479024, 0.21817923166859632)
+[1] (-0.38386257914599325, 0.11580619508268945)
+[2] (0.07292623058051181, 0.773675640380354)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.9444444444444444 Baseline: 0.9444444444444444 Precision: 0.9444444444444444 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.7222222222222222 Baseline: 0.7222222222222222 Precision: 0.7222222222222222 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 0.6666666666666666 Baseline: 0.9444444444444444 Precision: 0.14285714285714285 Recall: 1.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+khagaria
+Correlation for each class:
+[0] (0.32804052405459344, 0.4725751498167002)
+[1] (0.5009750852673898, 0.25209585858488526)
+[2] (0.2388467641478223, 0.6059873190544713)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.2857142857142857 Baseline: 0.5714285714285714 Precision: 0.25 Recall: 0.3333333333333333
+Threshold: 0.7999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.6491146042328944, 0.11466721862370961)
+[1] (0.7777648160883905, 0.03951127384943211)
+[2] (0.19295716971576254, 0.6784897238879678)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.42857142857142855 Baseline: 0.5714285714285714 Precision: 0.42857142857142855 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 0.5714285714285714 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+bhagalpur
+Correlation for each class:
+[0] (-0.2693576939474302, 0.3130522968292686)
+[1] (-0.2525680299904863, 0.3452994253489186)
+[2] (-0.1330143272635492, 0.6233629074689585)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.9375 Baseline: 1.0 Precision: 1.0 Recall: 0.9375
+Threshold: 0.6 Accuracy: 0.75 Baseline: 0.875 Precision: 0.8571428571428571 Recall: 0.8571428571428571
+Threshold: 0.7 Accuracy: 0.375 Baseline: 0.5 Precision: 0.4 Recall: 0.5
+Threshold: 0.7999999999999999 Accuracy: 0.8125 Baseline: 0.9375 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.6058053286227354, 0.012874823428837688)
+[1] (-0.7198804237801815, 0.0016639821176311373)
+[2] (0.029181277711014836, 0.914568043966994)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.9375 Baseline: 1.0 Precision: 1.0 Recall: 0.9375
+Threshold: 0.6 Accuracy: 0.8125 Baseline: 0.875 Precision: 0.8666666666666667 Recall: 0.9285714285714286
+Threshold: 0.7 Accuracy: 0.375 Baseline: 0.5 Precision: 0.4166666666666667 Recall: 0.625
+Threshold: 0.7999999999999999 Accuracy: 0.875 Baseline: 0.9375 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+banka
+Correlation for each class:
+[0] (0.27770342088576927, 0.40834742287067066)
+[1] (0.33258905969063157, 0.31762594166994185)
+[2] (-0.0307427342690592, 0.9285033412111062)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.9090909090909091 Baseline: 1.0 Precision: 1.0 Recall: 0.9090909090909091
+Threshold: 0.6 Accuracy: 0.7272727272727273 Baseline: 1.0 Precision: 1.0 Recall: 0.7272727272727273
+Threshold: 0.7 Accuracy: 0.45454545454545453 Baseline: 0.9090909090909091 Precision: 1.0 Recall: 0.4
+Threshold: 0.7999999999999999 Accuracy: 0.36363636363636365 Baseline: 0.6363636363636364 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 0.9090909090909091 Baseline: 0.9090909090909091 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.16870972341068574, 0.6199761612014426)
+[1] (-0.01935745459238644, 0.954951487839696)
+[2] (-0.34275503108095356, 0.3021325948538262)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.9090909090909091 Baseline: 0.9090909090909091 Precision: 0.9090909090909091 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 0.5454545454545454 Baseline: 0.6363636363636364 Precision: 1.0 Recall: 0.2857142857142857
+Threshold: 0.8999999999999999 Accuracy: 0.9090909090909091 Baseline: 0.9090909090909091 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+munger
+Correlation for each class:
+[0] (0.5554640312558178, 0.12050268796543606)
+[1] (0.6342853446489772, 0.06654882440459804)
+[2] (-0.11906287444581634, 0.760294207951126)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.7777777777777778 Baseline: 1.0 Precision: 1.0 Recall: 0.7777777777777778
+Threshold: 0.6 Accuracy: 0.6666666666666666 Baseline: 1.0 Precision: 1.0 Recall: 0.6666666666666666
+Threshold: 0.7 Accuracy: 0.7777777777777778 Baseline: 0.6666666666666666 Precision: 1.0 Recall: 0.6666666666666666
+Threshold: 0.7999999999999999 Accuracy: 0.7777777777777778 Baseline: 0.8888888888888888 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.30278693549491553, 0.42837067086419506)
+[1] (-0.5231409280736093, 0.1483910798821412)
+[2] (0.6526376923987174, 0.05672128397680979)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8888888888888888 Baseline: 1.0 Precision: 1.0 Recall: 0.8888888888888888
+Threshold: 0.7 Accuracy: 0.4444444444444444 Baseline: 0.6666666666666666 Precision: 0.5714285714285714 Recall: 0.6666666666666666
+Threshold: 0.7999999999999999 Accuracy: 0.8888888888888888 Baseline: 0.8888888888888888 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+lakhisarai
+Correlation for each class:
+[0] (-0.3580175126280572, 0.4304019729177462)
+[1] (-0.41807466485622974, 0.3506194344005526)
+[2] (-0.07262945065061259, 0.8770253625527837)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.5714285714285714 Baseline: 0.8571428571428571 Precision: 0.8 Recall: 0.6666666666666666
+Threshold: 0.7 Accuracy: 0.42857142857142855 Baseline: 0.7142857142857143 Precision: 0.6 Recall: 0.6
+Threshold: 0.7999999999999999 Accuracy: 0.5714285714285714 Baseline: 0.5714285714285714 Precision: 1.0 Recall: 0.25
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.43678394698746387, 0.32715211342575107)
+[1] (0.34518665260647957, 0.44827226118322433)
+[2] (0.6906920664031392, 0.08578211330868157)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8571428571428571 Baseline: 0.8571428571428571 Precision: 0.8571428571428571 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.7142857142857143 Baseline: 0.7142857142857143 Precision: 0.7142857142857143 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 0.42857142857142855 Baseline: 0.5714285714285714 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+sheikhpura
+Correlation for each class:
+[0] (0.12193256111195644, 0.8180075775235822)
+[1] (0.0012618859991283538, 0.9981071720059935)
+[2] (0.5568766255714596, 0.2510320056696054)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8333333333333334 Baseline: 1.0 Precision: 1.0 Recall: 0.8333333333333334
+Threshold: 0.7 Accuracy: 0.6666666666666666 Baseline: 0.5 Precision: 0.6666666666666666 Recall: 0.6666666666666666
+Threshold: 0.7999999999999999 Accuracy: 0.8333333333333334 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.22639877646456796, 0.6662040291035963)
+[1] (-0.3119855329959639, 0.547205252189941)
+[2] (-0.023554329332569846, 0.9646750400478329)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8333333333333334 Baseline: 1.0 Precision: 1.0 Recall: 0.8333333333333334
+Threshold: 0.7 Accuracy: 0.3333333333333333 Baseline: 0.5 Precision: 0.4 Recall: 0.6666666666666666
+Threshold: 0.7999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+nalanda
+Correlation for each class:
+[0] (0.20552199929770354, 0.3846969913587331)
+[1] (0.22018357698344876, 0.35092016954394695)
+[2] (0.2334719733026301, 0.32184743441938857)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.95 Baseline: 1.0 Precision: 1.0 Recall: 0.95
+Threshold: 0.6 Accuracy: 0.6 Baseline: 0.8 Precision: 0.75 Recall: 0.75
+Threshold: 0.7 Accuracy: 0.6 Baseline: 0.75 Precision: 0.3333333333333333 Recall: 0.6
+Threshold: 0.7999999999999999 Accuracy: 0.85 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.02405997924438491, 0.9198003138231154)
+[1] (0.12568190858290784, 0.5975154057965237)
+[2] (-0.11378045365046513, 0.6329108351419391)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.85 Baseline: 0.8 Precision: 0.8421052631578947 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.4 Baseline: 0.75 Precision: 0.18181818181818182 Recall: 0.4
+Threshold: 0.7999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+patna
+Correlation for each class:
+[0] (0.25961167313450534, 0.23159221794629398)
+[1] (0.3056743640127851, 0.15606604852453484)
+[2] (-0.19316690913235118, 0.37718584853249865)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.8260869565217391 Baseline: 0.8260869565217391 Precision: 0.8260869565217391 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.6086956521739131 Baseline: 0.6086956521739131 Precision: 0.6086956521739131 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.391304347826087 Baseline: 0.6521739130434783 Precision: 0.35 Recall: 0.875
+Threshold: 0.7999999999999999 Accuracy: 0.7391304347826086 Baseline: 0.9130434782608696 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.33808444236841806, 0.11460044589719888)
+[1] (0.3852065604706804, 0.06950150086970297)
+[2] (-0.039264349996849496, 0.8588233651624408)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.8260869565217391 Baseline: 0.8260869565217391 Precision: 0.8260869565217391 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.6521739130434783 Baseline: 0.6086956521739131 Precision: 0.65 Recall: 0.9285714285714286
+Threshold: 0.7 Accuracy: 0.5652173913043478 Baseline: 0.6521739130434783 Precision: 0.42857142857142855 Recall: 0.75
+Threshold: 0.7999999999999999 Accuracy: 0.9130434782608695 Baseline: 0.9130434782608696 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+bhojpur
+Correlation for each class:
+[0] (0.2648753148464184, 0.36010258459496136)
+[1] (0.2799194675036083, 0.3324057450309155)
+[2] (0.1792728723393174, 0.5397176895346857)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8571428571428571 Baseline: 0.8571428571428571 Precision: 0.8571428571428571 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.21428571428571427 Baseline: 0.8571428571428572 Precision: 0.15384615384615385 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 0.7857142857142857 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.2508699649122611, 0.38697745936285477)
+[1] (0.23191235786104622, 0.4249854271761491)
+[2] (0.11763465331239875, 0.6887828180723219)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8571428571428571 Baseline: 0.8571428571428571 Precision: 0.8571428571428571 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.21428571428571427 Baseline: 0.8571428571428572 Precision: 0.15384615384615385 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 0.5 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+buxar
+Correlation for each class:
+[0] (0.2792108142052982, 0.40570155869012087)
+[1] (0.2371868801773267, 0.48252494584283057)
+[2] (0.1567305405439573, 0.6453650418755491)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.7272727272727273 Baseline: 0.9090909090909091 Precision: 0.8888888888888888 Recall: 0.8
+Threshold: 0.6 Accuracy: 0.45454545454545453 Baseline: 0.6363636363636364 Precision: 0.375 Recall: 0.75
+Threshold: 0.7 Accuracy: 0.5454545454545454 Baseline: 0.9090909090909091 Precision: 0.16666666666666666 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 0.8181818181818182 Baseline: 0.9090909090909091 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.22157200563815913, 0.5126120146457773)
+[1] (0.28428668698804, 0.39685430897260515)
+[2] (-0.016075466337694244, 0.9625842290298045)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.9090909090909091 Baseline: 0.9090909090909091 Precision: 0.9090909090909091 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.36363636363636365 Baseline: 0.6363636363636364 Precision: 0.36363636363636365 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.2727272727272727 Baseline: 0.9090909090909091 Precision: 0.1111111111111111 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 0.9090909090909091 Baseline: 0.9090909090909091 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+kaimur
+Correlation for each class:
+[0] (-0.2787093701775668, 0.406580786723526)
+[1] (-0.31365688024629146, 0.347589022493329)
+[2] (-0.13590032774868888, 0.6903193407796577)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.9090909090909091 Baseline: 1.0 Precision: 1.0 Recall: 0.9090909090909091
+Threshold: 0.6 Accuracy: 0.8181818181818182 Baseline: 0.9090909090909091 Precision: 0.9 Recall: 0.9
+Threshold: 0.7 Accuracy: 0.45454545454545453 Baseline: 0.6363636363636364 Precision: 0.375 Recall: 0.75
+Threshold: 0.7999999999999999 Accuracy: 0.7272727272727273 Baseline: 0.9090909090909091 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.24197428334620405, 0.4734620335069745)
+[1] (0.265622289172173, 0.4298545903761788)
+[2] (0.1722226056470682, 0.6125995030002339)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.9090909090909091 Baseline: 0.9090909090909091 Precision: 0.9090909090909091 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.45454545454545453 Baseline: 0.6363636363636364 Precision: 0.4 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 0.7272727272727273 Baseline: 0.9090909090909091 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+rohtas
+Correlation for each class:
+[0] (-0.1361159109830899, 0.5784619009725204)
+[1] (-0.07719889004926142, 0.7534250335532806)
+[2] (-0.11984593078231595, 0.625054759456904)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8421052631578947 Baseline: 0.8947368421052632 Precision: 0.8888888888888888 Recall: 0.9411764705882353
+Threshold: 0.7 Accuracy: 0.3684210526315789 Baseline: 0.5789473684210527 Precision: 0.375 Recall: 0.75
+Threshold: 0.7999999999999999 Accuracy: 0.8947368421052632 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.3259492482915787, 0.20168254934198424)
+[1] (-0.4459479246034841, 0.07278565236055617)
+[2] (-0.10382624943762046, 0.6916963793158625)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8823529411764706 Baseline: 0.8823529411764706 Precision: 0.8823529411764706 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.29411764705882354 Baseline: 0.6470588235294117 Precision: 0.3125 Recall: 0.8333333333333334
+Threshold: 0.7999999999999999 Accuracy: 0.7647058823529411 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+aurangabad
+Correlation for each class:
+[0] (0.07430863419770214, 0.8281038458618757)
+[1] (0.23471777033606564, 0.4872291861902227)
+[2] (-0.15771957391943592, 0.6432555107525848)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.7272727272727273 Baseline: 1.0 Precision: 1.0 Recall: 0.7272727272727273
+Threshold: 0.6 Accuracy: 0.5454545454545454 Baseline: 0.9090909090909091 Precision: 0.8571428571428571 Recall: 0.6
+Threshold: 0.7 Accuracy: 0.6363636363636364 Baseline: 0.7272727272727273 Precision: 0.4 Recall: 0.6666666666666666
+Threshold: 0.7999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.02805960183266254, 0.9347313429138743)
+[1] (0.03400375313860445, 0.920938842550891)
+[2] (-0.05064920456719685, 0.8824302932095913)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.9090909090909091 Baseline: 0.9090909090909091 Precision: 0.9090909090909091 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.2727272727272727 Baseline: 0.7272727272727273 Precision: 0.2727272727272727 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 0.5454545454545454 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+gaya
+Correlation for each class:
+[0] (0.007147170803234931, 0.9735589834107428)
+[1] (0.020853021036073754, 0.9229526529911999)
+[2] (0.04946448454890185, 0.818457477004749)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.8333333333333334 Baseline: 0.9583333333333334 Precision: 0.9523809523809523 Recall: 0.8695652173913043
+Threshold: 0.6 Accuracy: 0.6666666666666666 Baseline: 0.9166666666666666 Precision: 0.9375 Recall: 0.6818181818181818
+Threshold: 0.7 Accuracy: 0.4583333333333333 Baseline: 0.5833333333333334 Precision: 0.5384615384615384 Recall: 0.5
+Threshold: 0.7999999999999999 Accuracy: 0.9166666666666666 Baseline: 0.9166666666666666 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.3359080614839505, 0.10854042240240529)
+[1] (0.25030328477220465, 0.2381337021713046)
+[2] (0.44671721573698786, 0.028641761754799586)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.9583333333333334 Baseline: 0.9583333333333334 Precision: 0.9583333333333334 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.9166666666666666 Baseline: 0.9166666666666666 Precision: 0.9166666666666666 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.5833333333333334 Baseline: 0.5833333333333334 Precision: 0.5833333333333334 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 0.4166666666666667 Baseline: 0.9166666666666666 Precision: 0.125 Recall: 1.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+nawada
+Correlation for each class:
+[0] (-0.221925950812926, 0.44573915269546976)
+[1] (-0.3299262945541975, 0.2493208785608381)
+[2] (0.2295646919656394, 0.4298196634588856)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8571428571428571 Baseline: 1.0 Precision: 1.0 Recall: 0.8571428571428571
+Threshold: 0.7 Accuracy: 0.5714285714285714 Baseline: 0.7142857142857143 Precision: 0.7 Recall: 0.7
+Threshold: 0.7999999999999999 Accuracy: 0.8571428571428571 Baseline: 0.9285714285714286 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.1263587023173603, 0.6668730527386736)
+[1] (-0.33704922610660865, 0.2386269355470028)
+[2] (0.5131747460232166, 0.06055785140401246)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.6428571428571429 Baseline: 0.7142857142857143 Precision: 0.6923076923076923 Recall: 0.9
+Threshold: 0.7999999999999999 Accuracy: 0.7142857142857143 Baseline: 0.9285714285714286 Precision: 0.2 Recall: 1.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+jamui
+Correlation for each class:
+[0] (-0.20635923582739335, 0.5673259354541967)
+[1] (-0.14858970886431005, 0.6820419676527488)
+[2] (-0.5073331015285317, 0.13444500131812534)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.9 Baseline: 1.0 Precision: 1.0 Recall: 0.9
+Threshold: 0.7 Accuracy: 0.3 Baseline: 0.8 Precision: 0.6666666666666666 Recall: 0.25
+Threshold: 0.7999999999999999 Accuracy: 0.9 Baseline: 0.9 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.30079836267638405, 0.3983764582199456)
+[1] (0.33646955578512305, 0.34179219485840134)
+[2] (0.21138969486333342, 0.5577002171244516)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.8 Baseline: 0.8 Precision: 0.8 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 0.7 Baseline: 0.9 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+jehanabad
+Correlation for each class:
+[0] (0.21225207147831884, 0.6477311548171779)
+[1] (0.24702614702404108, 0.593312619736694)
+[2] (-0.14900213144815638, 0.7498447439525067)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 0.8571428571428571 Baseline: 1.0 Precision: 1.0 Recall: 0.8571428571428571
+Threshold: 0.7 Accuracy: 0.7142857142857143 Baseline: 0.5714285714285714 Precision: 0.6666666666666666 Recall: 0.6666666666666666
+Threshold: 0.7999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (-0.9172459265953532, 0.0036174045084949964)
+[1] (-0.6818386178681028, 0.09156564415838625)
+[2] (-0.6823977793300284, 0.0911944771682859)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.42857142857142855 Baseline: 0.5714285714285714 Precision: 0.42857142857142855 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+arwal
+Correlation for each class:
+[0] (0.09226039318469437, 0.8826972822022392)
+[1] (0.01937722004521411, 0.9753297012085446)
+[2] (-0.228935847909351, 0.7110764732087891)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 0.8 Baseline: 1.0 Precision: 1.0 Recall: 0.8
+Threshold: 0.6 Accuracy: 0.6 Baseline: 1.0 Precision: 1.0 Recall: 0.6
+Threshold: 0.7 Accuracy: 0.4 Baseline: 0.8 Precision: 0.0 Recall: 0.0
+Threshold: 0.7999999999999999 Accuracy: 0.8 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Correlation for each class:
+[0] (0.5830840374434286, 0.3021220814358016)
+[1] (0.6169815880443449, 0.2675994193552946)
+[2] (-0.35740125237926657, 0.5548250930356643)
+
+Poverty prediction after thresholding on class [0]: 
+Threshold: 0.1 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.2 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.30000000000000004 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.4 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.5 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.6 Accuracy: 1.0 Baseline: 1.0 Precision: 1.0 Recall: 1.0
+Threshold: 0.7 Accuracy: 0.2 Baseline: 0.8 Precision: 0.2 Recall: 1.0
+Threshold: 0.7999999999999999 Accuracy: 0.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.8999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
+Threshold: 0.9999999999999999 Accuracy: 1.0 Baseline: 1.0 Precision: 0.0 Recall: 0.0
