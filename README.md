@@ -200,8 +200,3 @@ In contrast to the activations for shared layers' filters, the activations for t
 	<img src="filter_responses/task_specific_3.png">
 </div>
 <br>
-
-
-#### Acknowledgements
-
-The authors are grateful to NVIDIA Corporation for donating the TITAN X GPUs used for this research.
