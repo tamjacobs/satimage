@@ -1,18 +1,9 @@
 <p align="center">
 <b><a href="#introduction">Introduction</a></b>
 |
-<b><a href="#data-sources">Data Sources</a></b>
+<b><a href="#data-structure">Data Structure</a></b>
 |
-<b><a href="#sample-images">Sample Images</a></b>
-|
-<b><a href="#code">Code</a></b>
-|
-<b><a href="#filter-responses">Filter Responses</a></b>
-|
-<b><a href="#learning-curve">Learning Curve</a></b>
-|
-<b><a href="#acknowledgements">Acknowledgements</a></b>
-</p>
+<b><a href="#sample-images">Sample Filter Images</a></b>
 
 <a href="https://github.com/tamjacobs/satimage">
 <div align="center">
@@ -47,3 +38,29 @@ This repository is based on the paper <a href="https://www.aaai.org/ocs/index.ph
 3. Predict, using a simple four-layer fully-connected neural network (<a href="models/income_poverty_cd/model.png" target="_blank">PNG</a>, <a href="models/income_poverty_cd/best_model_architecture.json" target="_blank">JSON</a>, <a href="https://www.dropbox.com/s/jk6xhloa6946y9s/best_model_weights.h5?dl=0" target="_blank">Weights</a>), the income levels using the actual developmental parameter values -- model C.D., trained on census data.
 
 
+#### Data Structure
+
+| File/folder             |	Content           |	Source |
+| --------------------------------- | ------------------------------------- | ----------------------------- |
+Village_info.csv |	List of villages within a sub-district with the coordinates of each |	2011 Indian Census,   Google Maps Geocoding API|
+|Images|	Collection of 1920x1920 satellite images of all the villages listed in village_info.csv | Google Maps Static API |
+|Developmental_ data.csv | Ground truth data on the roof material, source of lighting and source of water for each village |	2011 Indian Census |
+|Data_subdistrict _income .csv |	Ground truth data for the proportion of households in each income class grouped by sub-district |	Socio-Economic Caste Census of 2011 |
+|<District_name>	| Folder containing Images folder, Developmental_data.csv, data_subdistrict_ income.csv and village_info.csv | - |
+
+
+#### Sample filter responses
+
+<div align="center">
+	<img src="readme_images/filter_responses.png">
+</div>
+</a><br>
+
+The above image shows a sample satellite image with corresponding features extracted from Layer 13
+
+<div align="center">
+	<img src="readme_images/low_level_filter_responses.png">
+</div>
+</a><br>
+
+The above image shows a sample satellite image with corresponding features extracted from Layers 14 (D), 15 (E), 16 (F)
